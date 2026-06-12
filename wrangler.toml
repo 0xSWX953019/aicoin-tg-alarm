@@ -1,0 +1,2 @@
+name = "aicoin-tg-alarm"
+main = "functions/api/alarm.js"
