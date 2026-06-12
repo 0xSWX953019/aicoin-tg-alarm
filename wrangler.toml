@@ -1,3 +1,3 @@
-name = "price-notifier"
+name = "aicoin-tg-alarm"
 main = "functions/api/alarm.js"
 compatibility_date = "2026-06-12"
